@@ -1,8 +1,13 @@
-import { Company } from './company';
+// import { Company } from './Company';
 import { User } from './Users';
 
-
-
+import { Map } from "./maps";
 const user = new User()
-const company = new Company()
-console.log(company)
+
+const map = new Map("map")
+
+map.addUserMarkert(user)
+
+
+
+

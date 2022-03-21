@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sammykirigha/maps#readme",
   "dependencies": {
+    "@types/googlemaps": "^3.43.3",
     "nodemon": "^2.0.15"
   },
   "devDependencies": {
