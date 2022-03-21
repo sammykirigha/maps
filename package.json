@@ -1,0 +1,27 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammykirigha/maps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammykirigha/maps/issues"
+  },
+  "homepage": "https://github.com/sammykirigha/maps#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0",
+    "@types/node": "^17.0.21"
+  }
+}
